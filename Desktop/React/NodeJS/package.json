@@ -1,0 +1,22 @@
+{
+  "name": "consequenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CallBackFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostProtocol11/Origin.git"
+  },
+  "author": "Odysseus Antonios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostProtocol11/Origin/issues"
+  },
+  "homepage": "https://github.com/GhostProtocol11/Origin#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
